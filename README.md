@@ -1,19 +1,20 @@
-**Olá, Mundo!**
-rsrs
 
-Sou **Ney Costa**.
+<h1 style="display: inline;">Olá, mundo! rsrs</h1>
+<img src="IMAGENS/UNI9.png" alt="Logo" width="80" style="float: right;">
+<div style="position: absolute; top: 100; right: 100;">
 
-Aqui estou compartilhando alguns códigos onde fazemos trabalahos diversos de IA, Machine Learnig e Data Analitycs
+👋 Olá!
+Sou apaixonado por dados e inteligência artificial.
 
-Sejam Bem vindos!
+Neste espaço, compartilho projetos e conhecimentos em:
+ - Inteligência Artificial (IA)
+ - Machine Learning
+ - Data Analytics
 
-Bien venidos!
+**Fique à vontade para explorar e colaborar!**
+___
 
-Welcome!
+🌎 Sejam bem-vindos!
 
-<p align="right">
-  <img src="IMAGENS/UNI9.png" alt="UNI9" width="100"/>
-</p>
-
-
-
+- ¡Bienvenidos!
+- Welcome!
